@@ -1,5 +1,5 @@
 .heading{
-  background-color: red;
+  background-color: royalblue;
   color: white;
   margin-bottom: 30px;
   padding: 30px;
@@ -13,7 +13,7 @@
 
 }
 body{
-  background-color:indianred;
+  background-color: peachpuff;
   letter-spacing: 1px;
 }
 h1 {
@@ -21,5 +21,5 @@ h1 {
 table{
   border-radius: 10px;
   border-width: 2px 2px;
-  border-color: orangered;
+  border-color: blue;
 }
